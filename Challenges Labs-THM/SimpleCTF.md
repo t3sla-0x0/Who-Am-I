@@ -10,6 +10,7 @@
           80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
           Service Info: OS: Unix ```
 
+
   **What is running on the higher port?** *[SSH]*
     ``` sudo nmap -sV -p- 10.112.129.59
         PORT     STATE SERVICE VERSION
