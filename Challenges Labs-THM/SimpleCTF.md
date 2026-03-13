@@ -4,6 +4,7 @@
 
 ## Answer the questions below
   **How many services are running under port 1000?** *[2]*
+  
       ``` sudo nmap -sV -p 1-1001 10.112.129.59
           PORT   STATE SERVICE VERSION
           21/tcp open  ftp     vsftpd 3.0.3
